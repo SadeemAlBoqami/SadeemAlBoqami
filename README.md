@@ -1,48 +1,40 @@
-# Hi there, I'm Sadeem AlBoqami! 👋🤖
+# Hi, I'm Sadeem AlBoqami 👋
 
-### Undergraduate Computer Engineering Researcher | AI & Robotics Enthusiast
+### Computer Engineering Student | Undergraduate Researcher
 
-I am a senior Computer Engineering student specializing in **Autonomous Systems** and **Edge AI**. My passion lies in bridging the gap between computer vision algorithms and real-world robotic hardware. Currently working on making roads safer using AI.
+I am a senior student specializing in **Autonomous Systems** and **AI**. My focus is on deploying efficient computer vision models on edge devices for real-time applications.
 
----
-
-### 🔭 Current Focus
-- 🎓 **Graduation Project:** Developing an "Intelligent Proactive Driving Assistant" using **ROS 2** and **YOLO** on NVIDIA Jetson.
-- 🔬 **Research Interest:** Benchmarking object detection models for low-latency edge devices.
-- 🚀 **Learning:** Advanced simulation with **NVIDIA Isaac Sim** & **Generative AI**.
+- 🎓 **Current Work:** Developing an *"Intelligent Proactive Driving Assistant"* using **ROS 2** & **YOLO** on NVIDIA Jetson Nano.
+- 🔭 **Research Interest:** Edge AI, Robotics Middleware (ROS 2), and Computer Vision.
+- 💼 **Experience:** Certified **Full Stack Robotics Engineer** (420 Training Hours).
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Technical Skills
 
-**Robotics & Simulation:**
-![ROS 2](https://img.shields.io/badge/ROS2-Humble-22314E?style=flat&logo=ROS&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-Classic-orange?style=flat&logo=gazebo&logoColor=white)
-![Isaac Sim](https://img.shields.io/badge/NVIDIA-Isaac_Sim-76B900?style=flat&logo=nvidia&logoColor=white)
+**Languages & Tools**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**AI & Computer Vision:**
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-v8%2Fv9-00FFFF?style=flat&logo=ultralytics&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![TensorRT](https://img.shields.io/badge/NVIDIA-TensorRT-76B900?style=flat&logo=nvidia&logoColor=white)
+**Robotics & AI**
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-v8-00FFFF?style=flat&logo=ultralytics&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
-**Embedded & Hardware:**
-![Jetson Nano](https://img.shields.io/badge/Hardware-NVIDIA_Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
-![Arduino](https://img.shields.io/badge/Hardware-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-
----
-
-### 🏆 Key Achievements
-- **Full Stack Robotics Engineer Certification** (420 Training Hours) - Smart Methods.
-- **Top 5%** in National Giftedness Scale (Mawhiba).
-- **A+ Grade** in Graduation Project Phase 1.
+**Hardware**
+![Jetson Nano](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
-![Sadeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=SadeemAlBoqami&show_icons=true&theme=radical)
+### 🏆 Certifications & Achievements
+- **Full Stack Robotics Engineer** | Smart Methods (Aug 2025)
+- **Generative AI Fundamentals** | IBM SkillsBuild (Jan 2026)
+- **Mawhiba Giftedness Program Member** | Qualified 3 times.
 
 ---
 
-### 📫 Connect with Me
+### 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sadeem_AlBoqami-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SadeemAlBoqami)
