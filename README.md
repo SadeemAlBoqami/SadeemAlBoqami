@@ -30,7 +30,7 @@ I am a senior student specializing in **Autonomous Systems** and **AI**. My focu
 ---
 
 ### 🏆 Certifications & Achievements
-- **Full Stack Robotics Engineer** | Smart Methods (Aug 2025)
+- **Full Stack Robotics Engineer (Certification)** | Smart Methods (Aug 2025)
 - **Generative AI Fundamentals** | IBM SkillsBuild (Jan 2026)
 - **Mawhiba Giftedness Program Member** | Qualified 3 times.
 
