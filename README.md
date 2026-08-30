@@ -1,8 +1,8 @@
 # Hi, I'm Sadeem AlBoqami 👋
 
-### Computer Engineering Student | Undergraduate Researcher
+### Computer Engineer | AI Data Center & Infrastructure Operations | Edge AI & Embedded Systems
 
-I am a senior student specializing in **Autonomous Systems** and **AI**. My focus is on deploying efficient computer vision models on edge devices for real-time applications.
+I am specializing in **Autonomous Systems** and **AI**. My focus is on deploying efficient computer vision models on edge devices for real-time applications.
 
 - 🎓 **Current Work:** Developing an *"Road Safety and Traffic Diagnostics Assisted by AI"* using **ROS 2** & **YOLO** on NVIDIA Jetson Nano.
 - 🔭 **Research Interest:** Edge AI, Robotics Middleware (ROS 2), and Computer Vision.
