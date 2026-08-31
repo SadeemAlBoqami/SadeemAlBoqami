@@ -45,9 +45,9 @@ Computer Engineering graduate specializing in **Autonomous Systems**, **Edge AI*
 
 ### 🏆 Certifications & Programs
 - **AI Data Center Operations Program** | Saudi Digital Academy (SDA) & WeCloudData (2026)
-- **AI Skills Accelerator (Advanced ML & MLOps)** | IBM & King Saud University (2026)[cite: 1]
-- **Getting Started with AI on Jetson Nano** | NVIDIA Deep Learning Institute (2026)[cite: 1]
-- **Full Stack Robotics Engineer** | Smart Methods (2025)[cite: 1]
+- **AI Skills Accelerator (Advanced ML & MLOps)** | IBM & King Saud University (2026)
+- **Getting Started with AI on Jetson Nano** | NVIDIA Deep Learning Institute (2026)
+- **Full Stack Robotics Engineer** | Smart Methods (2025)
 
 ---
 
